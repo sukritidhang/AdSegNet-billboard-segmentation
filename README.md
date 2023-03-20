@@ -3,12 +3,12 @@
 This code is only  for academic and research purposes.
 
 
-<h3>Code Organization<h3>
+## Code Organization
 
 All codes are written in python3.
 
 
-<h3> Dependencies <h3>
+### Dependencies 
 
 The following libraries should be installed before the execution of the codes
 
@@ -22,14 +22,14 @@ The following libraries should be installed before the execution of the codes
 </ul>
 
 
-<h3> Data</h3>
+### Data
 
 <p>The billboard dataset in this work is the ALOS dataset[1], that stands for
 Advert Localization in Outdoor Scenes.  </p>
 
-Dev, S., Hossari, M., Nicholson, M., McCabe, K., Nautiyal, A., Conran,
+> Dev, S., Hossari, M., Nicholson, M., McCabe, K., Nautiyal, A., Conran,
 C., Tang, J., Xu, W., Pitie, F.: The ALOS dataset for advert localization
 in outdoor scenes. In: Proc. Eleventh International Conference on Quality
 of Multimedia Experience (QoMEX) (2019)
 
-<h3> Scripts </h3>
+### Scripts 
