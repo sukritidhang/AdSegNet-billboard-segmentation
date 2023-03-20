@@ -36,4 +36,5 @@ of Multimedia Experience (QoMEX) (2019)
 
 - billboard_adsegent.ipynb : Run this script to preprocess the data, create model, train model.
 - evaluate_adsegnet_model.ipynb : Run  this script to evaluate the model. Generate predictions based on the trained model.
+- roc_evaluater_metrics_testdatasets.py : Run this script to calculate evaluation metrics.
 
