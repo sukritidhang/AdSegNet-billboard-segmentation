@@ -13,13 +13,13 @@ All codes are written in python3.
 The following libraries should be installed before the execution of the codes
 
 
-<ul>
-<li>numpy: pip install numpy</li>
-<li>pandas: pip install pandas</li>
-<li>matplotlib: pip install matplotlib</li>
-<li>glob: pip install glob</li>
-<li> scikit-image: pip install scikit-image</li>
-</ul>
+
+- numpy: pip install numpy
+- pandas: pip install pandas
+- matplotlib: pip install matplotlib
+- glob: pip install glob
+- scikit-image: pip install scikit-image
+
 
 
 ### Data
@@ -33,3 +33,7 @@ in outdoor scenes. In: Proc. Eleventh International Conference on Quality
 of Multimedia Experience (QoMEX) (2019)
 
 ### Scripts 
+
+- billboard_adsegent.ipynb : Run this script to preprocess the data, create model, train model.
+- evaluate_adsegnet_model.ipynb : Run  this script to evaluate the model. Generate predictions based on the trained model.
+
